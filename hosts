@@ -38,10 +38,10 @@ ff02::3 ip6-allhosts
 0.0.0.0	agariogame.club
 0.0.0.0	beta.faceit.com
 0.0.0.0	chatalternative.com
-# 0.0.0.0	encrypted-tbn0.gstatic.com 
-# 0.0.0.0	encrypted-tbn1.gstatic.com 
-# 0.0.0.0	encrypted-tbn2.gstatic.com 
-# 0.0.0.0	encrypted-tbn3.gstatic.com 
+0.0.0.0	encrypted-tbn0.gstatic.com 
+0.0.0.0	encrypted-tbn1.gstatic.com 
+0.0.0.0	encrypted-tbn2.gstatic.com 
+0.0.0.0	encrypted-tbn3.gstatic.com 
 0.0.0.0	g55.co
 0.0.0.0	games.g55.co
 0.0.0.0	hu-hu.facebook.com
