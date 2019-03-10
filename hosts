@@ -38,10 +38,10 @@ ff02::3 ip6-allhosts
 208.69.32.152	agariogame.club
 208.69.32.152	beta.faceit.com
 208.69.32.152	chatalternative.com
-208.69.32.152	encrypted-tbn0.gstatic.com 
-208.69.32.152	encrypted-tbn1.gstatic.com 
-208.69.32.152	encrypted-tbn2.gstatic.com 
-208.69.32.152	encrypted-tbn3.gstatic.com 
+# 208.69.32.152	encrypted-tbn0.gstatic.com 
+# 208.69.32.152	encrypted-tbn1.gstatic.com 
+# 208.69.32.152	encrypted-tbn2.gstatic.com 
+# 208.69.32.152	encrypted-tbn3.gstatic.com 
 208.69.32.152	g55.co
 208.69.32.152	games.g55.co
 208.69.32.152	hu-hu.facebook.com
