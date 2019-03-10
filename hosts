@@ -62,3 +62,5 @@ ff02::3 ip6-allhosts
 208.69.32.152 www.crazygames.com
 216.239.38.120 www.google.com #forcesafesearch
 216.239.38.120 www.google.hu #forcesafesearch
+216.239.38.120 www.bing.com
+216.239.38.120 bing.com
