@@ -63,6 +63,9 @@ ff02::3 ip6-allhosts
 216.239.38.120 www.google.com #forcesafesearch
 216.239.38.120 www.google.hu #forcesafesearch
 216.239.38.120 www.bing.com
+216.239.38.120 https://www.yahoo.com
+216.239.38.120 www.yahoo.com
+216.239.38.120 yahoo.com
 216.239.38.120 bing.com
 208.69.32.152 https://vimeo.com
 208.69.32.152 www.vimeo.com
