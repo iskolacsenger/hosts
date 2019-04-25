@@ -67,6 +67,10 @@ ff02::3 ip6-allhosts
 216.239.38.120 www.yahoo.com
 216.239.38.120 yahoo.com
 216.239.38.120 bing.com
+216.239.38.120  https://search.yahoo.com
+216.239.38.120  www.search.yahoo.com
+216.239.38.120  https://duckduckgo.com
+216.239.38.120  www.duckduckgo.com
 0.0.0.0 https://vimeo.com
 0.0.0.0 www.vimeo.com
 0.0.0.0 www.pacogames.com
@@ -176,3 +180,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.youtubeproxy.win
 0.0.0.0 https://proxysite.xyz
 0.0.0.0 www.proxysite.xyz
+0.0.0.0 https://unblockvideos.com
+0.0.0.0 www.unblockvideos.com
