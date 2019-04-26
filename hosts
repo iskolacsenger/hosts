@@ -67,10 +67,10 @@ ff02::3 ip6-allhosts
 216.239.38.120 www.yahoo.com
 216.239.38.120 yahoo.com
 216.239.38.120 bing.com
-216.239.38.120  https://search.yahoo.com
-216.239.38.120  www.search.yahoo.com
-216.239.38.120  https://duckduckgo.com
-216.239.38.120  www.duckduckgo.com
+216.239.38.120 https://search.yahoo.com
+216.239.38.120 www.search.yahoo.com
+216.239.38.120 https://duckduckgo.com
+216.239.38.120 www.duckduckgo.com
 0.0.0.0 https://vimeo.com
 0.0.0.0 www.vimeo.com
 0.0.0.0 www.pacogames.com
@@ -80,8 +80,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 https://myspace.com
 0.0.0.0 https://archive.org
 0.0.0.0 https://www.veoh.com
-0.0.0.0  http://9gag.com
-0.0.0.0  https://rutube.ru/
+0.0.0.0 http://9gag.com
+0.0.0.0 https://rutube.ru/
 0.0.0.0 http://www.pandora.tv
 0.0.0.0 ts.beniipowa.hu
 0.0.0.0 beniipowa.hu
