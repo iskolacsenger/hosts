@@ -77,6 +77,9 @@ ff02::3 ip6-allhosts
 216.239.38.120 www.yandex.com
 216.239.38.120 gibiru.com
 216.239.38.120 www.gibiru.com
+216.239.38.12 https://search.seznam.cz
+216.239.38.12 search.seznam.cz
+216.239.38.12 www.search.seznam.cz
 0.0.0.0 vimeo.com
 0.0.0.0 www.vimeo.com
 0.0.0.0 www.pacogames.com
