@@ -72,6 +72,9 @@ ff02::3 ip6-allhosts
 216.239.38.120 duckduckgo.com
 216.239.38.120 www.duckduckgo.com
 216.239.38.120 https://duckduckgo.com
+216.239.38.120 https://yandex.com
+216.239.38.120 yandex.com
+216.239.38.120 www.yandex.com
 216.239.38.120 gibiru.com
 216.239.38.120 www.gibiru.com
 0.0.0.0 vimeo.com
