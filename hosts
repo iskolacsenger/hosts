@@ -249,3 +249,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 https://indavideo.hu
 0.0.0.0 http://indavideo.hu
 0.0.0.0 www.indavideo.hu
+kms.edu.hu kms.kifu.hu
+kms.edu.hu kms.sulinet.hu
+195.199.255.194 kms.kifu.hu
+195.199.255.194 kms.sulinet.hu
